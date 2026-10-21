@@ -1,56 +1,85 @@
+
 <div align="center">
 
-# Hi, I'm Tran Thien Phuc 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=6&amp;color=0:0F172A,50:0E7490,100:38BDF8" width="100%" alt="Blue accent line" />
 
-You can call me **Zaneth**.
+<br />
 
-**Software Engineering Student · AI Engineering · Data Engineering**
+<sub>AI ENGINEERING &nbsp; / &nbsp; DATA ENGINEERING</sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+reliable+data+pipelines;Exploring+intelligent+systems;From+raw+data+to+real-world+impact)](https://git.io/typing-svg)
+<h1>Tran Thien Phuc</h1>
 
-[**Portfolio**](https://phuc-dev.vercel.app) &nbsp;·&nbsp; [**Repositories**](https://github.com/iamzaneth?tab=repositories)
+<p>Call me <strong>Zaneth</strong> 👋</p>
+
+<h3>Engineering data. Building intelligence.</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=35&amp;repeat=false&amp;lines=From+raw+data+to+reliable+AI+systems." alt="From raw data to reliable AI systems" />
+
+<p>
+  <a href="https://phuc-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/iamzaneth?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
+</p>
 
 </div>
 
-## About me
+## About
 
-I'm a software engineering student interested in the engineering behind AI-powered products: **collecting trustworthy data, building reproducible pipelines, experimenting with machine learning, and connecting models to real applications**.
+I'm exploring **AI Engineering** and **Data Engineering** through hands-on projects. I enjoy making complex information easier to use — from organizing raw data and building pipelines to experimenting with machine learning and creating practical applications.
 
-My focus is at the intersection of **AI Engineering** and **Data Engineering**. I care about data quality, clear system design, and making technical work reproducible.
+What matters to me: **data quality · reproducibility · clear system design**.
 
-> **Why “Zaneth”?** It echoes *zenith* — the highest point — and reminds me to keep learning and aiming higher.
+> **Why “Zaneth”?** Inspired by *zenith* — the highest point. A reminder to stay curious and keep aiming higher.
 
-## Featured projects
+## Featured Projects
 
-| Project | What I'm building | Focus |
-| --- | --- | --- |
-| [**Vietnam Legal RAG**](https://github.com/iamzaneth/vietnam-legal-rag) | A Vietnamese legal-document pipeline that collects HTML from VBPL, extracts structured content, and validates data quality and provenance. Retrieval and generation are planned stages. | Data ingestion · Information retrieval foundations |
-| [**WLASL Sign Language Recognition**](https://github.com/iamzaneth/wlasl-sign-language-recognition) | A research pipeline for isolated sign-language recognition, from dataset audits and MediaPipe landmarks to Transformer training and evaluation. | Deep learning · Computer vision · ML experiments |
-| [**NexTick**](https://github.com/iamzaneth/NexTick) | A real-time cryptocurrency market-data system with Binance ingestion, Kafka streaming, OHLCV processing, QuestDB storage, and a live web interface. | Streaming data · Backend · System design |
+### 01 / ⚖️ [Vietnam Legal RAG](https://github.com/iamzaneth/vietnam-legal-rag)
 
-## Tech stack
+**Making Vietnamese legal information easier to organize, verify, and search.**
+
+Legal documents can be lengthy and difficult to navigate. This project collects HTML documents from **VBPL**, organizes their content into a consistent structure, and checks that the extracted information matches its source. The goal is to build a trustworthy foundation for future AI-assisted legal search; the question-answering system is not implemented yet.
+
+**Focus:** `Data Collection` · `Data Quality` · `RAG Foundations` · `Python`
+
+### 02 / 🤟 [WLASL Sign Language Recognition](https://github.com/iamzaneth/wlasl-sign-language-recognition)
+
+**Exploring how AI can recognize individual signs from video.**
+
+This research project works with videos of **American Sign Language**. It extracts body and hand movements as numerical data, then trains and evaluates a machine learning model to recognize individual signs. It is an experimental recognition pipeline, not a real-time sign-language translator.
+
+**Focus:** `Computer Vision` · `PyTorch` · `MediaPipe` · `Transformers`
+
+### 03 / 📈 [NexTick](https://github.com/iamzaneth/NexTick)
+
+**Turning live market activity into charts people can explore.**
+
+NexTick receives a continuous stream of cryptocurrency trades from **Binance**, processes updates as they happen, and stores price history for a live web dashboard. The project focuses on moving and presenting data reliably in real time — it does not place trades.
+
+**Focus:** `Data Streaming` · `Apache Kafka` · `QuestDB` · `NestJS` · `React`
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,pytorch,react,nestjs,docker,git,linux&amp;theme=dark&amp;perline=8" alt="Python, TypeScript, PyTorch, React, NestJS, Docker, Git and Linux" />
+
+</div>
 
 | Area | Technologies |
-| --- | --- |
-| **Languages** | Python · TypeScript · SQL |
-| **AI / ML** | PyTorch · MediaPipe · Transformer models |
-| **Data Engineering** | Apache Kafka · QuestDB · Data pipelines · Data validation |
-| **Backend / Frontend** | NestJS · REST APIs · Socket.IO · React |
-| **Developer tools** | Docker · Git · Linux · uv |
+| :--- | :--- |
+| **AI / Machine Learning** | Python · PyTorch · MediaPipe · Transformer models |
+| **Data Engineering** | SQL · Apache Kafka · QuestDB · Data pipelines · Data validation |
+| **Application Development** | TypeScript · NestJS · React · REST APIs · Socket.IO |
+| **Development & Tooling** | Docker · Git · Linux · uv |
 
-## Currently exploring
+## Currently Exploring
 
-- **Retrieval & AI systems:** turning reliable, traceable data into useful AI applications.
-- **ML engineering:** reproducible experiments, evaluation, and model integration.
-- **Data architecture:** event-driven pipelines, streaming, and data consistency.
-- **Cloud:** AWS fundamentals and scalable deployment patterns.
+**AWS and cloud architecture**, with a focus on how to build and run dependable data and AI applications.
 
 ---
 
 <div align="center">
 
-*Keep learning. Keep building. Keep reaching higher.*
-
-[Portfolio](https://phuc-dev.vercel.app) · [GitHub](https://github.com/iamzaneth)
+<sub>Stay curious. Build with purpose. Keep reaching higher.</sub>
 
 </div>
