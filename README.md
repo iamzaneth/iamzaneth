@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=16&amp;duration=4200&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=35&amp;repeat=false&amp;lines=From+raw+data+to+reliable+AI+systems." alt="From raw data to reliable AI systems" />
 
 <p>
-  <a href="https://phuc-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://zaneth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0284C7?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://github.com/iamzaneth?tab=repositories"><img src="https://img.shields.io/badge/Projects-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
 </p>
